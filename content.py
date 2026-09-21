@@ -104,11 +104,11 @@ EXPERIENCE = [
 ]
 
 SKILLS = [
-    ("Service management", "ITIL practices, ESM and ITSM platforms (incident, problem, change, CMDB, workflow), Service Integration and SIAM"),
+    ("Service management", "ITIL practices (incident, problem, change, CMDB), Site Reliability Engineering (SLOs, error budgets, toil reduction), Agile delivery, domain-driven design for service boundaries"),
     ("Automation and integration", "Workflow and event-driven automation, APIs and web services (REST, SOAP, JSON), scripting across several languages"),
     ("Agentic AI", "RAG and graph retrieval, context engineering, agent harnesses and guardrails, evaluations, agent observability, AI governance"),
     ("Observability", "Monitoring and telemetry architecture, metrics, logs, traces and events, AIOps, dependency mapping"),
-    ("Infrastructure", "Windows Server, Active Directory, DNS, VMware, SAN storage and fabrics, disaster recovery, job scheduling"),
+    ("Infrastructure", "Windows and Linux servers, Active Directory, DNS, VMware, SAN storage and fabrics, disaster recovery, job scheduling"),
     ("Communication", "Executive presentations, storytelling, RFP responses, statements of work, KPI catalogs and responsibility matrices"),
 ]
 
