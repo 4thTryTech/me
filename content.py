@@ -108,7 +108,7 @@ SKILLS = [
     ("Automation and integration", "Workflow and event-driven automation, APIs and web services (REST, SOAP, JSON), scripting across several languages"),
     ("Agentic AI", "RAG and graph retrieval, context engineering, agent harnesses and guardrails, evaluations, agent observability, AI governance"),
     ("Observability", "Monitoring and telemetry architecture, metrics, logs, traces and events, AIOps, dependency mapping"),
-    ("Infrastructure", "Windows and Linux servers, Active Directory, DNS, VMware, SAN storage and fabrics, disaster recovery, job scheduling"),
+    ("Infrastructure", "Windows and Linux servers, databases, Active Directory, DNS, VMware, SAN storage and fabrics, disaster recovery, job scheduling"),
     ("Communication", "Executive presentations, storytelling, RFP responses, statements of work, KPI catalogs and responsibility matrices"),
 ]
 
