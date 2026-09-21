@@ -104,7 +104,7 @@ EXPERIENCE = [
 ]
 
 SKILLS = [
-    ("Service management", "ITIL practices (incident, problem, change, CMDB), Site Reliability Engineering (SLOs, error budgets, toil reduction), Agile delivery, domain-driven design for service boundaries"),
+    ("Service management", "ITIL practices (incident, problem, change, CMDB), Site Reliability Engineering (SLOs, error budgets, toil reduction), Agile delivery, domain-driven design"),
     ("Automation and integration", "Workflow and event-driven automation, APIs and web services (REST, SOAP, JSON), scripting across several languages"),
     ("Agentic AI", "RAG and graph retrieval, context engineering, agent harnesses and guardrails, evaluations, agent observability, AI governance"),
     ("Observability", "Monitoring and telemetry architecture, metrics, logs, traces and events, AIOps, dependency mapping"),
